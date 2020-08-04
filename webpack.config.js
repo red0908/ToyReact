@@ -1,6 +1,6 @@
 module.exports={
   entry: {
-    main: './main.js'
+    main: './game.js'
   },
   mode: 'development',
   optimization: {
